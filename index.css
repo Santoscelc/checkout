@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(159, 91, 241);
+}
+#card{
+    width: 70%;
+    margin: 0auto;
+    background-color: rgb(153, 89, 232);
+}
